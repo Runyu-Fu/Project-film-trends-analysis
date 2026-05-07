@@ -1,4 +1,4 @@
-# A Data-Driven Study of Disney Films in the Film Industry
+# Film-trends-analysis
 
 ## Overview
 
